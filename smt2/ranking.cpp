@@ -51,7 +51,7 @@ int main(){
         }
     }
     for(i=i;i<=banyak_data;i++){
-        printf("\nRanking %d dengan nilai rata-rata %d", i,  rata_rata[i]);
+        printf("\nRanking %i dengan nilai rata-rata %i", i,  rata_rata[i]);
     }
     return 0;
 }
